@@ -57,5 +57,3 @@ for number in reversed_numbers:
 print("round(2.4) =", round(2.4))  # 2
 print("sorted([2, 1, 4, 3])=", sorted([2, 1, 4, 3]))  # [1,2,3,4]
 print("sum([1, 2])  =", sum([1, 2]))  # 3
-
-print(-2 % -3)
